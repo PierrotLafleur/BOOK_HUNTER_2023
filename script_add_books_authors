@@ -1,0 +1,138 @@
+INSERT INTO authors (id, firstname, lastname, biography, picture, created_at) VALUES
+(1, 'Haruki', 'Murakami', 'Haruki Murakami is a Japanese writer. He is known for his surreal and imaginative novels that often blend elements of fantasy and realism. Some of his popular works include "Norwegian Wood", "Kafka on the Shore", and "1Q84".', 'haruki_murakami.jpg', NOW()),
+(2, 'J.K.', 'Rowling', 'J.K. Rowling is a British author best known for creating the "Harry Potter" series. Her books have gained worldwide popularity and have been adapted into successful films. Rowling has also written novels under the pseudonym Robert Galbraith.', 'jk_rowling.jpg', NOW()),
+(3, 'Gabriel', 'García Márquez', 'Gabriel García Márquez was a Colombian novelist and Nobel Prize winner in Literature. He is widely regarded as one of the most significant authors of the 20th century. His notable works include "One Hundred Years of Solitude" and "Love in the Time of Cholera".', 'gabriel_garcia_marquez.jpg', NOW()),
+(4, 'Jane', 'Austen', 'Jane Austen was an English novelist known for her witty and social commentary in her novels. Her works, including "Pride and Prejudice", "Sense and Sensibility", and "Emma", have become classics of English literature.', 'jane_austen.jpg', NOW()),
+(5, 'Ernest', 'Hemingway', 'Ernest Hemingway was an American writer and journalist. He is known for his distinctive writing style and his novels such as "The Old Man and the Sea", "A Farewell to Arms", and "For Whom the Bell Tolls". Hemingway received the Nobel Prize in Literature in 1954.', 'ernest_hemingway.jpg', NOW()),
+(6, 'Toni', 'Morrison', 'Toni Morrison was an American novelist and Nobel Prize winner in Literature. Her works explore themes of African American identity, oppression, and history. Some of her notable works include "Beloved", "The Bluest Eye", and "Song of Solomon".', 'toni_morrison.jpg', NOW()),
+(7, 'George', 'Orwell', 'George Orwell was an English writer and journalist. He is best known for his dystopian novel "Nineteen Eighty-Four" and the allegorical novella "Animal Farm". Orwells works often examine themes of totalitarianism, social injustice, and political corruption.', 'george_orwell.jpg', NOW()),
+(8, 'Virginia', 'Woolf', 'Virginia Woolf was a British modernist writer and one of the foremost figures of 20th-century literature. Her innovative writing style and exploration of themes such as gender, identity, and mental health have made her a significant literary figure. Woolfs notable works include "Mrs. Dalloway" and "To the Lighthouse".', 'virginia_woolf.jpg', NOW()),
+(9, 'Fyodor', 'Dostoevsky', 'Fyodor Dostoevsky was a Russian novelist and philosopher. His works are known for their psychological depth and exploration of human nature. Some of his famous novels include "Crime and Punishment", "The Brothers Karamazov", and "Notes from Underground".', 'fyodor_dostoevsky.jpg', NOW()),
+(10, 'Margaret', 'Atwood', 'Margaret Atwood is a Canadian writer known for her speculative fiction and feminist themes. Her novels, including "The Handmaid\'s Tale", "Alias Grace", and "Oryx and Crake", have garnered critical acclaim and have been adapted into successful TV series.', 'margaret_atwood.jpg', NOW()),
+(11, 'Albert', 'Camus', 'Albert Camus was a French philosopher and writer. He is known for his existentialist works that explore themes of absurdism, morality, and the human condition. Camus notable works include "The Stranger" and "The Plague".', 'albert_camus.jpg', NOW()),
+(12, 'Hermann', 'Hesse', 'Hermann Hesse was a German-Swiss writer and Nobel Prize winner in Literature. His works often delve into spiritual and philosophical themes and have gained international acclaim. Some of his famous works include "Siddhartha" and "Steppenwolf".', 'hermann_hesse.jpg', NOW()),
+(13, 'Mary', 'Shelley', 'Mary Shelley was an English novelist and the author of the Gothic novel "Frankenstein". She is regarded as one of the pioneers of science fiction and her work continues to inspire and captivate readers to this day.', 'mary_shelley.jpg', NOW()),
+(14, 'Leo', 'Tolstoy', 'Leo Tolstoy was a Russian writer widely considered as one of the greatest novelists of all time. His novels, including "War and Peace" and "Anna Karenina", are renowned for their intricate character development and profound insights into human nature.', 'leo_tolstoy.jpg', NOW()),
+(15, 'Jorge Luis', 'Borges', 'Jorge Luis Borges was an Argentine writer and one of the key figures of 20th-century literature. His works often blend elements of fantasy, philosophy, and literary puzzles. Borges notable works include "Ficciones" and "The Aleph".', 'jorge_luis_borges.jpg', NOW()),
+(16, 'Chimamanda Ngozi', 'Adichie', 'Chimamanda Ngozi Adichie is a Nigerian writer known for her powerful storytelling and exploration of themes such as race, gender, and cultural identity. Her works include "Purple Hibiscus", "Half of a Yellow Sun", and "Americanah".', 'chimamanda_ngozi_adichie.jpg', NOW()),
+(17, 'Markus', 'Zusak', 'Markus Zusak is an Australian writer best known for his novel "The Book Thief". His works often deal with themes of love, loss, and the power of words. Zusaks writing style has garnered critical acclaim and a devoted fanbase.', 'markus_zusak.jpg', NOW()),
+(18, 'Italo', 'Calvino', 'Italo Calvino was an Italian writer and one of the most influential figures of 20th-century literature. His works often blend elements of fantasy, allegory, and metafiction. Calvinos notable works include "Invisible Cities" and "If on a winter\'s night a traveler".', 'italo_calvino.jpg', NOW()),
+(19, 'King', 'Stephen', 'Stephen King is an american writer who is known for his horror stories.', 'stephen_king.jpg', NOW()),
+(20, 'Gustave', 'Flaubert', 'Gustave Flaubert was a French writer regarded as one of the greatest novelists in Western literature. He is best known for his masterpiece "Madame Bovary" and his meticulous attention to detail in his writing.', 'gustave_flaubert.jpg', NOW()),
+(21, 'Octavia', 'Butler', 'Octavia Butler was an American science fiction writer. She is known for her novels that explore themes of race, gender, and social justice. Butlers notable works include "Kindred" and the "Parable" series.', 'octavia_butler.jpg', NOW()),
+(22, 'Franz', 'Kafka', 'Franz Kafka was a Czech writer who wrote in German. His works often depict absurd and nightmarish situations and explore themes of alienation, guilt, and bureaucracy. Kafkas notable works include "The Metamorphosis" and "The Trial".', 'franz_kafka.jpg', NOW()),
+(23, 'Gabriela', 'Mistral', 'Gabriela Mistral was a Chilean poet, diplomat, and educator. She was the first Latin American woman to receive the Nobel Prize in Literature. Mistrals poetry reflects themes of love, nature, and social justice.', 'gabriela_mistral.jpg', NOW()),
+(24, 'William', 'Shakespeare', 'William Shakespeare was an English playwright and poet. He is widely regarded as the greatest writer in the English language and the worlds preeminent dramatist. Shakespeares plays, including "Romeo and Juliet", "Hamlet", and "Macbeth", are timeless classics.', 'william_shakespeare.jpg', NOW()),
+(25, 'Virginia', 'Woolf', 'Virginia Woolf was a British modernist writer and one of the foremost figures of 20th-century literature. Her innovative writing style and exploration of themes such as gender, identity, and mental health have made her a significant literary figure. Woolf\'s notable works include "Mrs. Dalloway" and "To the Lighthouse".', 'virginia_woolf.jpg', NOW());
+
+------------------------------------------------------------------------------
+
+INSERT INTO books (isbn, title, resume, cover, publicated_at, created_at, author_id, category_id) VALUES
+-- Books by J.K. Rowling
+('9781108855652', 'Harry Potter and the Sorcerer\'s Stone', 'Harry Potter and the Sorcerer\'s Stone is the first book in the Harry Potter series. It follows the journey of Harry Potter, a young wizard, as he discovers his magical abilities and attends Hogwarts School of Witchcraft and Wizardry.', 'harry_potter_sorcerers_stone.jpg', '1997-06-26', NOW(), 1, 1),
+('9780432139601', 'Harry Potter and the Chamber of Secrets', 'Harry Potter and the Chamber of Secrets is the second book in the Harry Potter series. In this installment, Harry uncovers a dark secret within Hogwarts and faces the mysterious entity known as the Chamber of Secrets.', 'harry_potter_chamber_secrets.jpg', '1998-07-02', NOW(), 1, 1),
+
+-- Books by George Orwell
+('9780351524935', '1984', '1984 is a dystopian novel by George Orwell. It depicts a totalitarian regime where the government controls every aspect of people\'s lives and manipulates information to maintain its power.', '1984.jpg', '1949-06-08', NOW(), 2, 2),
+('9784151010264', 'Animal Farm', 'Animal Farm is an allegorical novella by George Orwell. It uses a group of farm animals to satirize the events leading up to the Russian Revolution and the Soviet Union\'s subsequent totalitarian regime.', 'animal_farm.jpg', '1945-08-17', NOW(), 2, 2),
+
+-- Books by Harper Lee
+('9780065935467', 'To Kill a Mockingbird', 'To Kill a Mockingbird is a novel by Harper Lee. Set in the 1930s, it explores racial injustice and the loss of innocence through the eyes of Scout Finch, a young girl growing up in Alabama.', 'to_kill_mockingbird.jpg', '1960-07-11', NOW(), 3, 3),
+('9780062469874', 'Go Set a Watchman', 'Go Set a Watchman is a novel by Harper Lee. It is set in the mid-1950s and provides a sequel to Lee\'s famous novel To Kill a Mockingbird, following the adult life of Scout Finch.', 'go_set_watchman.jpg', '2015-07-14', NOW(), 3, 3),
+
+-- Books by Fyodor Dostoevsky
+('9780679774505', 'Crime and Punishment', 'Crime and Punishment is a novel by Fyodor Dostoevsky. It delves into the mind of Raskolnikov, a young ex-student who commits a heinous crime and grapples with guilt and moral consequences.', 'crime_punishment.jpg', '1866-01-12', NOW(), 4, 4),
+('9780374528379', 'The Brothers Karamazov', 'The Brothers Karamazov is the final novel by Fyodor Dostoevsky. It explores deep philosophical and moral questions through the lives of the Karamazov brothers and their complex relationships.', 'brothers_karamazov.jpg', '1880-11-01', NOW(), 4, 4),
+
+-- Books by Jane Austen
+('9780141489588', 'Pride and Prejudice', 'Pride and Prejudice is a novel by Jane Austen. It follows the story of Elizabeth Bennet as she navigates societal expectations, love, and the clash of pride and prejudice in 19th-century England.', 'pride_prejudice.jpg', '1813-01-28', NOW(), 5, 5),
+('9781853290001', 'Sense and Sensibility', 'Sense and Sensibility is a novel by Jane Austen. It portrays the lives of the Dashwood sisters as they navigate love, societal pressures, and the contrast between sense and sensibility.', 'sense_sensibility.jpg', '1811-10-30', NOW(), 5, 5),
+
+-- Books by Ernest Hemingway
+('9781684801223', 'The Old Man and the Sea', 'The Old Man and the Sea is a novella by Ernest Hemingway. It tells the story of an aging fisherman\'s struggle with a giant marlin in the Gulf Stream and explores themes of determination, resilience, and the human condition.', 'old_man_sea.jpg', '1952-09-01', NOW(), 6, 6),
+('9780682830490', 'For Whom the Bell Tolls', 'For Whom the Bell Tolls is a novel by Ernest Hemingway. Set during the Spanish Civil War, it follows an American protagonist who fights alongside anti-fascist guerrillas and contemplates the realities of war and mortality.', 'for_whom_bell_tolls.jpg', '1940-10-21', NOW(), 6, 6),
+
+-- Books by J.R.R. Tolkien
+('9780537928210', 'The Lord of the Rings', 'The Lord of the Rings is an epic high fantasy novel by J.R.R. Tolkien. It follows the journey of Frodo Baggins and his companions as they seek to destroy the One Ring and defeat the dark lord Sauron.', 'lord_of_rings.jpg', '1954-07-29', NOW(), 7, 7),
+('9780264103252', 'The Hobbit', 'The Hobbit, or There and Back Again, is a fantasy novel by J.R.R. Tolkien. It takes place in Middle-earth and tells the story of Bilbo Baggins, a hobbit who embarks on a quest to reclaim a dwarven kingdom from a dragon.', 'hobbit.jpg', '1937-09-21', NOW(), 7, 7),
+
+-- Books by Leo Tolstoy
+('9780145039990', 'Anna Karenina', 'Anna Karenina is a novel by Leo Tolstoy. It explores themes of love, infidelity, and societal norms through the tragic story of Anna Karenina and her ill-fated affair.', 'anna_karenina.jpg', '1877-03-01', NOW(), 8, 8),
+('9780199632765', 'War and Peace', 'War and Peace is a novel by Leo Tolstoy. It is regarded as one of the greatest works of world literature and chronicles the lives of several Russian aristocratic families during the Napoleonic era.', 'war_peace.jpg', '1869-01-01', NOW(), 8, 8),
+
+-- Books by Mark Twain
+('9780199736568', 'Adventures of Huckleberry Finn', 'Adventures of Huckleberry Finn is a novel by Mark Twain. It follows the journey of Huck Finn and Jim, a runaway slave, as they navigate the Mississippi River and confront issues of racism and societal hypocrisy.', 'huckleberry_finn.jpg', '1884-12-10', NOW(), 9, 9),
+('9880486403497', 'The Adventures of Tom Sawyer', 'The Adventures of Tom Sawyer is a novel by Mark Twain. It depicts the mischievous adventures of Tom Sawyer and his friends in the fictional town of St. Petersburg, inspired by Twain\'s own experiences as a boy.', 'tom_sawyer.jpg', '1876-12-01', NOW(), 9, 9),
+
+-- Books by Agatha Christie
+('9780092073501', 'Murder on the Orient Express', 'Murder on the Orient Express is a detective novel by Agatha Christie. It follows detective Hercule Poirot as he investigates a murder committed on the famous Orient Express train.', 'murder_orient_express.jpg', '1934-01-01', NOW(), 10, 1),
+('9780012073556', 'And Then There Were None', 'And Then There Were None is a mystery novel by Agatha Christie. It tells the story of ten strangers invited to a remote island who are mysteriously killed off one by one.', 'and_then_there_were_none.jpg', '1939-11-06', NOW(), 10, 1),
+
+-- Books by Gabriel Garcia Marquez
+('9780061120083', 'One Hundred Years of Solitude', 'One Hundred Years of Solitude is a novel by Gabriel Garcia Marquez. It tells the multi-generational story of the Buendia family in the fictional town of Macondo, blending elements of magical realism and political commentary.', 'one_hundred_years_solitude.jpg', '1967-05-30', NOW(), 11, 1),
+('9780360932688', 'Love in the Time of Cholera', 'Love in the Time of Cholera is a novel by Gabriel Garcia Marquez. It explores the enduring power of love through the lives of Florentino Ariza and Fermina Daza, spanning over five decades.', 'love_time_cholera.jpg', '1985-05-08', NOW(), 11, 1),
+
+-- Books by Charlotte Bronte
+('9780141441146', 'Jane Eyre', 'Jane Eyre is a novel by Charlotte Bronte. It follows the journey of Jane Eyre, an orphaned governess, as she overcomes adversity and finds love and independence in 19th-century England.', 'jane_eyre.jpg', '1847-10-16', NOW(), 12, 2),
+('9780141434563', 'Villette', 'Villette is a novel by Charlotte Bronte. Set in the fictional town of Villette, it explores themes of loneliness, isolation, and the struggles of a young woman in a society dominated by men.', 'villette.jpg', '1853-01-01', NOW(), 12, 2),
+
+-- Books by Arthur Conan Doyle
+('9780140469083', 'The Adventures of Sherlock Holmes', 'The Adventures of Sherlock Holmes is a collection of detective stories by Arthur Conan Doyle. It features the iconic detective Sherlock Holmes and his loyal companion Dr. John Watson as they solve various crimes and mysteries.', 'sherlock_holmes.jpg', '1892-10-14', NOW(), 13, 1),
+('9780792123097', 'The Hound of the Baskervilles', 'The Hound of the Baskervilles is a novel by Arthur Conan Doyle. It follows Sherlock Holmes and Dr. Watson as they investigate the legend of a supernatural hound haunting the Baskerville family.', 'hound_baskervilles.jpg', '1902-04-25', NOW(), 13, 3),
+
+-- Books by William Shakespeare
+('9780783477123', 'Romeo and Juliet', 'Romeo and Juliet is a tragedy by William Shakespeare. It tells the story of two young lovers from feuding families and their ill-fated romance, exploring themes of love, fate, and the consequences of violence.', 'romeo_juliet.jpg', '1597-01-01', NOW(), 14, 1),
+('97801431628571', 'Hamlet', 'Hamlet is a tragedy by William Shakespeare. It follows Prince Hamlet as he seeks revenge for his father\'s murder and contemplates the complexities of life, death, and the human psyche.', 'hamlet.jpg', '1603-01-01', NOW(), 14, 4),
+
+-- Books by Charles Dickens
+('9780141839563', 'Great Expectations', 'Great Expectations is a novel by Charles Dickens. It follows the life of Pip, an orphan who rises from poverty to wealth, exploring themes of social class, identity, and ambition.', 'great_expectations.jpg', '1861-08-01', NOW(), 15, 1),
+('9780489424430', 'A Tale of Two Cities', 'A Tale of Two Cities is a historical novel by Charles Dickens. It takes place during the French Revolution and depicts the lives of various characters in London and Paris, exploring themes of sacrifice and redemption.', 'tale_two_cities.jpg', '1859-04-30', NOW(), 15, 5),
+
+-- Books by Margaret Atwood
+('9780345490818', 'The Handmaid\'s Tale', 'The Handmaid\'s Tale is a dystopian novel by Margaret Atwood. Set in a totalitarian society, it follows the story of Offred and explores themes of gender oppression, reproductive rights, and individual freedom.', 'handmaids_tale.jpg', '1985-01-01', NOW(), 16, 1),
+('9780385490443', 'Alias Grace', 'Alias Grace is a historical novel by Margaret Atwood. It is based on the true story of Grace Marks, a convicted murderess in 19th-century Canada, and delves into the complexities of memory, identity, and the justice system.', 'alias_grace.jpg', '1996-01-01', NOW(), 16, 6),
+
+-- Books by H.G. Wells
+('9780486264729', 'The Time Machine', 'The Time Machine is a science fiction novella by H.G. Wells. It follows an English scientist known as the Time Traveller as he explores the distant future and encounters different societies and species.', 'time_machine.jpg', '1895-05-07', NOW(), 17, 1),
+('9780416280615', 'The War of the Worlds', 'The War of the Worlds is a science fiction novel by H.G. Wells. It describes an invasion of Earth by Martians and the ensuing struggle for survival, addressing themes of imperialism and humanity\'s place in the universe.', 'war_worlds.jpg', '1898-01-01', NOW(), 17, 7),
+
+-- Books by Oscar Wilde
+('9780486278070', 'The Picture of Dorian Gray', 'The Picture of Dorian Gray is a philosophical novel by Oscar Wilde. It tells the story of Dorian Gray, a young man who remains eternally youthful while a portrait of him ages and reflects his moral decay.', 'dorian_gray.jpg', '1890-07-01', NOW(), 18, 1),
+('9780451527886', 'The Importance of Being Earnest', 'The Importance of Being Earnest is a comedic play by Oscar Wilde. It satirizes the hypocrisy and absurdity of Victorian society through witty dialogue and mistaken identities.', 'importance_earnest.jpg', '1895-02-14', NOW(), 18, 8),
+
+-- Books by Herman Melville
+('9780142433239', 'Moby-Dick', 'Moby-Dick is a novel by Herman Melville. It follows the obsessive quest of Captain Ahab to hunt down the white whale Moby Dick, exploring themes of obsession, fate, and the nature of evil.', 'moby_dick.jpg', '1851-10-18', NOW(), 19, 9),
+('9780599566470', 'Billy Budd', 'Billy Budd is a novella by Herman Melville. It tells the story of Billy Budd, a young sailor who faces a moral dilemma when he is falsely accused of mutiny and reacts with a violent response.', 'billy_budd.jpg', '1924-11-19', NOW(), 19, 9),
+
+-- Books by Virginia Woolf
+('9780156830471', 'Mrs. Dalloway', 'Mrs. Dalloway is a novel by Virginia Woolf. It takes place over the course of a single day and explores the inner thoughts and experiences of various characters as they navigate social conventions and personal struggles.', 'mrs_dalloway.jpg', '1925-05-14', NOW(), 20, 2),
+('9780456628709', 'To the Lighthouse', 'To the Lighthouse is a novel by Virginia Woolf. It is divided into three parts and delves into the inner lives and complex relationships of the Ramsay family and their guests, offering reflections on art, time, and the nature of reality.', 'to_lighthouse.jpg', '1927-05-05', NOW(), 20, 2),
+
+-- Books by Jane Austen
+('9780141459518', 'Pride and Prejudice', 'Pride and Prejudice is a novel by Jane Austen. It follows the story of Elizabeth Bennet as she navigates love, societal expectations, and personal growth in 19th-century England.', 'pride_prejudice.jpg', '1813-01-28', NOW(), 21, 1),
+('9780142488761', 'Sense and Sensibility', 'Sense and Sensibility is a novel by Jane Austen. It explores the lives and romantic pursuits of the Dashwood sisters, highlighting the contrast between sense and sensibility in matters of love and society.', 'sense_sensibility.jpg', '1811-10-30', NOW(), 21, 1),
+
+-- Books by F. Scott Fitzgerald
+('9780743573565', 'The Great Gatsby', 'The Great Gatsby is a novel by F. Scott Fitzgerald. Set in the Jazz Age, it portrays the lavish and decadent lives of the wealthy in 1920s America, exploring themes of love, illusion, and the American Dream.', 'great_gatsby.jpg', '1925-04-10', NOW(), 22, 2),
+('9780686801520', 'Tender Is the Night', 'Tender Is the Night is a novel by F. Scott Fitzgerald. It tells the story of the rise and fall of Dick Diver, a promising young psychiatrist, and explores themes of love, ambition, and mental illness.', 'tender_night.jpg', '1934-04-12', NOW(), 22, 2),
+
+-- Books by Emily Bronte
+('9780141439556', 'Wuthering Heights', 'Wuthering Heights is a novel by Emily Bronte. It is a haunting tale of love and revenge, set in the Yorkshire moors, and delves into the destructive power of passion and the complexities of human relationships.', 'wuthering_heights.jpg', '1847-12-17', NOW(), 23, 3),
+('9780141471146', 'Jane Eyre', 'Jane Eyre is a novel by Charlotte Bronte. It follows the life of Jane Eyre, an orphan who becomes a governess and falls in love with the brooding Mr. Rochester, exploring themes of love, independence, and morality.', 'jane_eyre.jpg', '1847-10-16', NOW(), 23, 3),
+
+-- Books by Agatha Christie
+('9780007129278', 'Murder on the Orient Express', 'Murder on the Orient Express is a detective novel by Agatha Christie. It follows the famous detective Hercule Poirot as he investigates a murder that occurs aboard the luxurious Orient Express train, testing his deductive skills to solve the complex mystery.', 'murder_orient_express.jpg', '1934-01-01', NOW(), 24, 4),
+('9780017136831', 'And Then There Were None', 'And Then There Were None is a mystery novel by Agatha Christie. It follows a group of strangers who are invited to an isolated island, where they are mysteriously murdered one by one, creating an atmosphere of suspense and intrigue.', 'and_then_there_were_none.jpg', '1939-11-06', NOW(), 24, 4),
+
+-- Books by Ernest Hemingway
+('9780684811223', 'The Old Man and the Sea', 'The Old Man and the Sea is a novella by Ernest Hemingway. It tells the story of an old fisherman named Santiago who engages in a relentless battle with a giant marlin, exploring themes of resilience, determination, and the human condition.', 'old_man_sea.jpg', '1952-09-01', NOW(), 25, 5),
+('9780684821469', 'A Farewell to Arms', 'A Farewell to Arms is a novel by Ernest Hemingway. It is set during World War I and follows the love affair between an American ambulance driver and a British nurse, offering a poignant portrayal of the brutality and disillusionment of war.', 'farewell_arms.jpg', '1929-09-27', NOW(), 25, 5);
+
+-----------------------------------------------------------------------------
+
+INSERT INTO `book_hunter`.`categories` (`name`, `created_at`) VALUES
+('Romance', NOW()),
+('Mystery', NOW()),
+('Science Fiction', NOW()),
+('Fantasy', NOW()),
+('Thriller', NOW());
